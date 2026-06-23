@@ -61,7 +61,7 @@ GNU General Public License v3.0( GPLv3) (<https://www.gnu.org/licenses/gpl-3.0.h
 
 # AI usage disclosure
 
-Portions of the R package code were developed with assistance from OpenAI Codex. All AI-generated code and text were reviewed, modified, tested, and validated by the authors. The authors made all substantive design, implementation, and scientific decisions and take full responsibility for the software and manuscript content.
+AI tools used included:  (code, paper text, docs); the nature and scope of assistance; human authors reviewed and validated all AI-assisted outputs.
 
 # Acknowledgements
 
