@@ -65,7 +65,7 @@ AI tools used included: OpenAI Codex was used to assist with code generation, de
 
 # Acknowledgements
 
-We acknowledge contributions from Marissa Roseman and Baylor Fain for reviewing the package and providing useful feedback. Thanks Allison. 
+We acknowledge contributions from Marissa Roseman and Baylor Fain for reviewing the package and providing useful feedback. 
 
 # References
 
