@@ -6,9 +6,9 @@ tags:
 - CDMetaPOP tutorial
 date: "12 October 2026"
 output:
-  word_document: default
   pdf_document:
     latex_engine: xelatex
+  word_document: default
 authors:
 - name: Dominique Alò
   orcid: "0000-0003-0579-4156"
@@ -59,7 +59,7 @@ The package leverages an interactive user interface provided with the use of shi
 
 # Research impact statement
 
-Spatially explicit, individual-based models (SIBMs) are powerful tools for understanding complex ecological and evolutionary systems, as they allow researchers to simulate the behavior and interactions of individual organisms across space and time. CDMetaPOP is a widely used, open-source SIBM that combines demography and genetics in a spatially explicit framework, making it particularly useful for studying population dynamics, gene flow, selection and adaptation, disease spread, and the effects of landscape features on both real-world and hypothetical animal and plant populations [@landguth2017cdmetapop; @sullivan_assessment_2026; @beaman2025guide; @lozada_simulation_based_2023; @bernos_simulating_2023; @seaborn_simulating_2023; @mendoza_portillo_responses_2023; @seaborn_individual_based_2023; @day2023cdmetapop; @bernos_evaluating_2023; @day_evaluation_2021; @forester_evolutionary_2023; @disease; @escalante_interplay_2018; @day_using_2018; @nathan_simulation_2019; @mims_simulating_2019; @landguth_modeling_2020; @menon_tracing_2020; @day2024landscape; @day2020simulating; @landguth2017plant; @Davenport2026; @beaman2025guide]. CDMetaPOP has a high barrier to entry and is still underutilized in the research community. This package is designed to make CDMetaPOP more accessible to a wider audience of researchers, including those who may not have extensive experience with Python or command-line interfaces, or prefer working natively within the R environment. By providing user-friendly tools for input file creation and analysis of CDMetaPOP outputs within the R programming language, cdmetapopR aims to promote broader adoption of CDMetaPOP across multiple research disciplines.
+Spatially explicit, individual-based models (SIBMs) are powerful tools for understanding complex ecological and evolutionary systems, as they allow researchers to simulate the behavior and interactions of individual organisms across space and time. CDMetaPOP is a widely used, open-source SIBM that combines demography and genetics in a spatially explicit framework, making it particularly useful for studying population dynamics, gene flow, selection and adaptation, disease spread, and the effects of landscape features on both real-world and hypothetical animal and plant populations [@landguth2017cdmetapop; @sullivan_assessment_2026; @beaman2025guide; @lozada_simulation_based_2023; @bernos_simulating_2023; @seaborn_simulating_2023; @mendoza_portillo_responses_2023; @seaborn_individual_based_2023; @day2023cdmetapop; @bernos_evaluating_2023; @day_evaluation_2021; @forester_evolutionary_2023; @disease; @escalante_interplay_2018; @day_using_2018; @nathan_simulation_2019; @mims_simulating_2019; @landguth_modeling_2020; @menon_tracing_2020; @day2024landscape; @day2020simulating; @landguth2017plant; @Davenport2026; @beaman2025guide]. This package is designed to make CDMetaPOP more accessible to a wider audience of researchers, including those who may not have extensive experience with Python or command-line interfaces, or prefer working natively within the R environment. By providing user-friendly tools for input file creation and analysis of CDMetaPOP outputs within the R programming language, cdmetapopR aims to promote broader adoption of CDMetaPOP across multiple research disciplines.
 
 # License
 
